@@ -1,0 +1,16 @@
+body {
+  font-family: 'Caveat', cursive;
+}
+
+body,
+.lead {
+  font-size: 145%;
+}
+
+.btn {
+  font-size: 120%;
+}
+
+.jumbotron .container {
+  width: 100%;
+}
