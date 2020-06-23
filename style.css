@@ -4,7 +4,11 @@ body {
 
 body,
 .lead {
-  font-size: 145%;
+  font-size: 135%;
+}
+
+.creds {
+  font-size: 80%;
 }
 
 .jumbotron {
@@ -12,6 +16,7 @@ body,
   background-image: url(img/background.jpg);
   background-position: left top;
   background-repeat: repeat;
+  border-radius: 15px;
 }
 .jumbotron h1 {
   font-family: 'Lobster', cursive;
